@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://discord.gg/FBF3xVTtve" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Discord" width="48" height="48" style="margin-right: 1px;" />
+      <span style="font-size: 16px; color: black;">¿Quieres sugerir nuevos sonidos? Contáctanos en nuestro Discord</span>
+    </div>
+  </a>
+</div>
+
+-----------------
+
 **¿Quieres algún sonido de motor aquí? Solo copia y pega el sonido a la hora de modificar tu vehiculo con el motor nivel 4 o superior**
 
 Para escuchar mejor las muestras de sonido, revisa los enlaces adjuntados a cada sonido.
@@ -112,5 +123,4 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview](https://youtu.be/RxCEomFrpP0) | ✔️ |
 
 
-[![Discord](https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png)](https://discord.gg/FBF3xVTtve)  
-**¿Quieres sugerir nuevos sonidos? [Contáctanos en nuestro Discord](https://discord.gg/FBF3xVTtve)**
+
