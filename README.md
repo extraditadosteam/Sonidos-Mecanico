@@ -121,6 +121,25 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Volkswagen VR6 V6** | lgcy00vr6 | [Youtube - Preview](https://youtu.be/p5ppz7avDS4) | ✔️ |
 |**Yamaha MT-09/FZ-09 I3** | mt09eng | [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg) | ✔️ |
 |**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview](https://youtu.be/RxCEomFrpP0) | ✔️ |
+|**SL65 AMG V12** | sl65amgv12 | [Youtube - Preview](https://www.youtube.com/watch?v=eVj-t4Uf5cY) | ✔️ |
+|**2F2F MITSUBISHI ECLIPSE SPYDER** | Strej20 | [Youtube - Preview[]()](https://youtu.be/6xQKPvNOGz4) | ✔️ |
+|**Lamborghini Gallardo 5.0 V10** | gallardov10 | [Youtube - Preview](https://youtu.be/uANk1dgUCEA) | ✔️ |
+|**Super Charger Demon V8** | superchargerdemonv8 | [Youtube - Preview](https://youtu.be/WKUmerZGi90?si=3SRLrR2JAgeAKet5&t=324) | ✔️ |
+|**Dodge Challenger Hellcat Redeye V8** | hellcatsound | [Youtube - Preview](https://youtu.be/bTbF58j8Vuk) | ✔️ |
+|**Chevrolet Camaro LT4** | chevroletlt4 | [Youtube - Preview](https://youtu.be/mqUi0pTpZ5c) | ✔️ |
+|**Volkswagen Golf GTI 7 EA888 DSG I4** | ea888 | [Youtube - Preview](https://youtu.be/nBB9orSFrqo) | ✔️ |
+|**Kawasaki Ninja H2R** | ta103ninjah2r | [Youtube - Preview](https://youtu.be/4eD6oD1pHIA) | ✔️ |
+|**Ferrari F430 V8** | f430v8 | [Youtube - Preview](https://youtu.be/FkXmt_E9xy0?si=Kk-bA_s-Rw-dupQD&t=301) | ✔️ |
+|**Koenigsegg Agera RS 5.0 V8** | agerasound | [Youtube - Preview](https://youtu.be/rh4eiMCNVMk) | ✔️ |
+|**Ford F-150 5.0 Coyote V8** | B | [Youtube - Preview](https://youtu.be/uPcxorIgtss) | ✔️ |
+|**BMW R1200GS Akrapovic** | kc12r1200gsakrapovic | [Youtube - Preview](https://youtu.be/WGgh2l4QAYc) | ✔️ |
+|**Porsche 911 GT3 RS** | tagt3flat6 | [Youtube - Preview](https://youtu.be/NyO8PAWydqM) | ✔️ |
+|**Toyota Supra 2JZ 3.0L I6** | aq2jzgterace | [Youtube - Preview](https://youtu.be/6kbCtm4Fajk) | ✔️ |
+|**Honda S2000 F20C/F22C VTEC Inline-4** | aq56honf20c | [Youtube - Preview](https://youtu.be/HAiFZGAZpyI) | ✔️ |
+|**Pagani Zonda M297 AMG V12** | aq59pagm297 | [Youtube - Preview](https://youtu.be/WVyRLV0Tugc) | ✔️ |
+|**Lamborghini Aventador (L539 V12)** | ta023l539 | [Youtube - Preview](https://youtu.be/6svqzOC_eko) | ✔️ |
+|**Nissan VQ37VHR Turbo** | aq14nisvq37vhrt | [Youtube - Preview](https://youtu.be/3ycUH98Yfbk) | ✔️ |
 
 
+-----------------
 
