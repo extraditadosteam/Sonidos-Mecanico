@@ -122,7 +122,7 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Yamaha MT-09/FZ-09 I3** | mt09eng | [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg) | ✔️ |
 |**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview](https://youtu.be/RxCEomFrpP0) | ✔️ |
 |**SL65 AMG V12** | sl65amgv12 | [Youtube - Preview](https://www.youtube.com/watch?v=eVj-t4Uf5cY) | ✔️ |
-|**2F2F MITSUBISHI ECLIPSE SPYDER** | Strej20 | [Youtube - Preview[]()](https://youtu.be/6xQKPvNOGz4) | ✔️ |
+|**2F2F MITSUBISHI ECLIPSE SPYDER** | Strej20 | [Youtube - Preview](https://youtu.be/6xQKPvNOGz4) | ✔️ |
 |**Lamborghini Gallardo 5.0 V10** | gallardov10 | [Youtube - Preview](https://youtu.be/uANk1dgUCEA) | ✔️ |
 |**Super Charger Demon V8** | superchargerdemonv8 | [Youtube - Preview](https://youtu.be/WKUmerZGi90?si=3SRLrR2JAgeAKet5&t=324) | ✔️ |
 |**Dodge Challenger Hellcat Redeye V8** | hellcatsound | [Youtube - Preview](https://youtu.be/bTbF58j8Vuk) | ✔️ |
