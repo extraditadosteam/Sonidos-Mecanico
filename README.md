@@ -71,42 +71,42 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Lamborghini Veneno L539 V12** | lamveneng | [Youtube - Preview](https://youtu.be/8BP5gFBUiSg) | ✔️ |
 |**Lexus LFA 4.7L V10** | lg48lexlfa | [Youtube - Preview](https://youtu.be/bcXSsh8geeY) | ✔️ |
 |**Mazda 13B-REW 1.3L Twin-Rotor** | rotary7 | [Youtube - Preview](https://youtu.be/i308m20TTlY) | ✔️ |
-|**Mazda 20B 3 Rotor** | lg188maz20b | [Youtube - Preview]() | ✔️ |
-|**Mazda Custom 26B 4 Rotor** | lg28cst26b | [Youtube - Preview]() | ✔️ |
-|**Mazda Custom 26B 4 Rotor** | lg29cst26btrb | [Youtube - Preview]() | ✔️ |
-|**Mazda Miata MX-5 1.6L I4 (NA)** | mx5nasound | [Youtube - Preview]() | ✔️ |
-|**Mazda RX-7 13B (Bridgeported)** | rx7bpeng | [Youtube - Preview]() | ✔️ |
-|**Mazda RX-7 FD3S** | fd3sid | [Youtube - Preview]() | ✔️ |
-|**Mazda RX-8 Renesis** | lg15rx8ren | [Youtube - Preview]() | ✔️ |
-|**McLaren 720S M840T V8** | ml720v8eng | [Youtube - Preview]() | ✔️ |
-|**McLaren MP4/4 F1 V6** | hong1v6eng | [Youtube - Preview]() | ✔️ |
-|**McLaren P1 M838T V8** | mcp1eng | [Youtube - Preview]() | ✔️ |
-|**Mercedes-AMG One PU106C V6** | amg1eng | [Youtube - Preview]() | ✔️ |
-|**Mercedes-AMG GTR 4.0L V8** | lg30meramgtr | [Youtube - Preview]() | ✔️ |
-|**Mercedes AMG C63 M156 6.3L V8** | mbnzc63eng | [Youtube - Preview]() | ✔️ |
-|**Mercedes AMG CLK GTR V12** | lg187clkgtr | [Youtube - Preview]() | ✔️ |
-|**Mercedes SLS AMG 6.3L V8** | lg116slsamg | [Youtube - Preview]() | ✔️ |
-|**Mitsubishi Lancer Evolution 4B11T I4** | lg54evoxtun | [Youtube - Preview]() | ✔️ |
-|**Mitsubishi Lancer Evolution 4G63T I4** | evorllyeng | [Youtube - Preview]() | ✔️ |
-|**Nascar 7.0L V8** | lg44nascarv8 | [Youtube - Preview]() | ✔️ |
-|**NFSU2 Nissan 350Z VQ35 V6** | z33u2 | [Youtube - Preview]() | ✔️ |
-|**Nissan 240Z L24 I6** | lgcy03nisl24 | [Youtube - Preview]() | ✔️ |
-|**Nissan GTR R35 VR38DETT** | nisgtr35 | [Youtube - Preview]() | ✔️ |
-|**Nissan RB26DETT 2.6L I6-TT** | rb26dett | [Youtube - Preview]() | ✔️ |
-|**Nissan SR20DET I4** | nsr2teng | [Youtube - Preview]() | ✔️ |
-|**Pagani-AMG M158 6.0L V12TT** | m158huayra | [Youtube - Preview]() | ✔️ |
-|**Pagani-AMG M297 7.3L V12** | m297zonda | [Youtube - Preview]() | ✔️ |
-|**Pagani Zonda Revolución 6.0L V12** | pgzonreng | [Youtube - Preview]() | ✔️ |
-|**Porsche 911 F6 Tubi Style Exhaust** | lg102por992ts | [Youtube - Preview]() | ✔️ |
-|**Porsche 911 GT3RS 4.0L F6** | lg157por911 | [Youtube - Preview]() | ✔️ |
-|**Porsche RS 4.0L Flat-6** | gt3flat6 | [Youtube - Preview]() | ✔️ |
-|**Skoda Fabia R5 WRC I4** | lg87skodar5rally | [Youtube - Preview]() | ✔️ |
-|**Subaru Impreza WRX STI EJ25 F4** | wrxrllyeng | [Youtube - Preview]() | ✔️ |
-|**Suzuki GSX-R 1000 I4 Yoshimura** | szkgsxryoshimuraeng | [Youtube - Preview]() | ✔️ |
-|**Toyota 1JZ I6** | tjz1eng | [Youtube - Preview]() | ✔️ |
-|**Toyota 2JZ-GTE 3.0L I6-T** | toysupmk4 | [Youtube - Preview]() | ✔️ |
-|**Toyota AE86 4AGE I4** | 4age | [Youtube - Preview]() | ✔️ |
-|**Toyota Supra A90 B58 I6 Tuned** | lg16a90mk5 | [Youtube - Preview]() | ✔️ |
-|**Volkswagen VR6 V6** | lgcy00vr6 | [Youtube - Preview]() | ✔️ |
-|**Yamaha MT-09/FZ-09 I3** | mt09eng | [Youtube - Preview]() | ✔️ |
-|**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview]() | ✔️ |
+|**Mazda 20B 3 Rotor** | lg188maz20b | [Youtube - Preview](https://youtu.be/EjkXekEfv7A) | ✔️ |
+|**Mazda Custom 26B 4 Rotor** | lg28cst26b | [Youtube - Preview](https://youtu.be/_R5IpMw1eeo) | ✔️ |
+|**Mazda Custom 26B 4 Rotor** | lg29cst26btrb | [Youtube - Preview](https://youtu.be/HYQ6r1nObXk) | ✔️ |
+|**Mazda Miata MX-5 1.6L I4 (NA)** | mx5nasound | [Youtube - Preview](https://youtu.be/ZC2KgvRPOE0) | ✔️ |
+|**Mazda RX-7 13B (Bridgeported)** | rx7bpeng | [Youtube - Preview](https://youtu.be/zdEdJdGtAcM) | ✔️ |
+|**Mazda RX-7 FD3S** | fd3sid | [Youtube - Preview](https://youtu.be/PUaSP3vqDS0) | ✔️ |
+|**Mazda RX-8 Renesis** | lg15rx8ren | [Youtube - Preview](https://youtu.be/BoRhjwblWjg) | ✔️ |
+|**McLaren 720S M840T V8** | ml720v8eng | [Youtube - Preview](https://youtu.be/6XL4Onuopho) | ✔️ |
+|**McLaren MP4/4 F1 V6** | hong1v6eng | [Youtube - Preview](https://youtu.be/1u6hjHockdQ) | ✔️ |
+|**McLaren P1 M838T V8** | mcp1eng | [Youtube - Preview](https://youtu.be/99pttUdDoXc) | ✔️ |
+|**Mercedes-AMG One PU106C V6** | amg1eng | [Youtube - Preview](https://youtu.be/2_taOi9OXgI) | ✔️ |
+|**Mercedes-AMG GTR 4.0L V8** | lg30meramgtr | [Youtube - Preview](https://youtu.be/H1wNPTM9KiE) | ✔️ |
+|**Mercedes AMG C63 M156 6.3L V8** | mbnzc63eng | [Youtube - Preview](https://youtu.be/-VwKDLdPD1A) | ✔️ |
+|**Mercedes AMG CLK GTR V12** | lg187clkgtr | [Youtube - Preview](https://youtu.be/dlsMERb1KAk) | ✔️ |
+|**Mercedes SLS AMG 6.3L V8** | lg116slsamg | [Youtube - Preview](https://youtu.be/8Z1HN7vZlH0) | ✔️ |
+|**Mitsubishi Lancer Evolution 4B11T I4** | lg54evoxtun | [Youtube - Preview](https://youtu.be/j3tEnboKZS8) | ✔️ |
+|**Mitsubishi Lancer Evolution 4G63T I4** | evorllyeng | [Youtube - Preview](https://youtu.be/Baq7PaL4qWw) | ✔️ |
+|**Nascar 7.0L V8** | lg44nascarv8 | [Youtube - Preview](https://youtu.be/1i664U1ldig) | ✔️ |
+|**NFSU2 Nissan 350Z VQ35 V6** | z33u2 | [Youtube - Preview](https://youtu.be/QHXe3ioXkkc) | ✔️ |
+|**Nissan 240Z L24 I6** | lgcy03nisl24 | [Youtube - Preview](https://youtu.be/LYxxnlDTzkQ) | ✔️ |
+|**Nissan GTR R35 VR38DETT** | nisgtr35 | [Youtube - Preview](https://youtu.be/dFwl4xutSB0) | ✔️ |
+|**Nissan RB26DETT 2.6L I6-TT** | rb26dett | [Youtube - Preview](https://youtu.be/9ULSzL5soOE) | ✔️ |
+|**Nissan SR20DET I4** | nsr2teng | [Youtube - Preview](https://youtu.be/J9tKApRdc0g) | ✔️ |
+|**Pagani-AMG M158 6.0L V12TT** | m158huayra | [Youtube - Preview](https://youtu.be/7Rl6xxMIgOc) | ✔️ |
+|**Pagani-AMG M297 7.3L V12** | m297zonda | [Youtube - Preview](https://youtu.be/WVyRLV0Tugc) | ✔️ |
+|**Pagani Zonda Revolución 6.0L V12** | pgzonreng | [Youtube - Preview](https://youtu.be/lyMkVnxY22Q) | ✔️ |
+|**Porsche 911 F6 Tubi Style Exhaust** | lg102por992ts | [Youtube - Preview](https://youtu.be/Zjhl65qhDt8) | ✔️ |
+|**Porsche 911 GT3RS 4.0L F6** | lg157por911 | [Youtube - Preview](https://youtu.be/7LNGY7mmwn0) | ✔️ |
+|**Porsche RS 4.0L Flat-6** | gt3flat6 | No Disponible | ✔️ |
+|**Skoda Fabia R5 WRC I4** | lg87skodar5rally | [Youtube - Preview](https://youtu.be/sq2KcdzRW1w) | ✔️ |
+|**Subaru Impreza WRX STI EJ25 F4** | wrxrllyeng | [Youtube - Preview](https://youtu.be/5gso82s1Arw) | ✔️ |
+|**Suzuki GSX-R 1000 I4 Yoshimura** | szkgsxryoshimuraeng | [Youtube - Preview](https://youtu.be/otWDm-8miCQ) | ✔️ |
+|**Toyota 1JZ I6** | tjz1eng | [Youtube - Preview](https://youtu.be/ioyRcbLeW0w) | ✔️ |
+|**Toyota 2JZ-GTE 3.0L I6-T** | toysupmk4 | [Youtube - Preview](https://youtu.be/udmRG5v1f68) | ✔️ |
+|**Toyota AE86 4AGE I4** | 4age | [Youtube - Preview](https://youtu.be/wHmj7dIXSjA) | ✔️ |
+|**Toyota Supra A90 B58 I6 Tuned** | lg16a90mk5 | [Youtube - Preview](https://youtu.be/EDiB8-7f9fg) | ✔️ |
+|**Volkswagen VR6 V6** | lgcy00vr6 | [Youtube - Preview](https://youtu.be/p5ppz7avDS4) | ✔️ |
+|**Yamaha MT-09/FZ-09 I3** | mt09eng | [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg) | ✔️ |
+|**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview](https://youtu.be/RxCEomFrpP0) | ✔️ |
