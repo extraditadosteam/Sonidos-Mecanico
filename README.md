@@ -110,3 +110,7 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Volkswagen VR6 V6** | lgcy00vr6 | [Youtube - Preview](https://youtu.be/p5ppz7avDS4) | ✔️ |
 |**Yamaha MT-09/FZ-09 I3** | mt09eng | [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg) | ✔️ |
 |**Yamaha Raptor 700cc I1** | lgcyc00qbike700 | [Youtube - Preview](https://youtu.be/RxCEomFrpP0) | ✔️ |
+
+
+[![Discord](https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png)](https://discord.gg/FBF3xVTtve)  
+**¿Quieres sugerir nuevos sonidos? [Contáctanos en nuestro Discord](https://discord.gg/FBF3xVTtve)**
