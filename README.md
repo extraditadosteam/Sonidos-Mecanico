@@ -91,7 +91,7 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Mazda RX-8 Renesis** |  lg15rx8ren  |  [Youtube - Preview](https://youtu.be/BoRhjwblWjg)  | ✔️ | $275,000 |
 |**McLaren 720S M840T V8** |  ml720v8eng  |  [Youtube - Preview](https://youtu.be/6XL4Onuopho)  | ✔️ | $410,000 |
 |**McLaren MP4/4 F1 V6** |  hong1v6eng  |  [Youtube - Preview](https://youtu.be/1u6hjHockdQ)  | ✔️ | $460,000 |
-|**McLaren P1 M838T V8** |  mcp1eng  |  [Youtube - Preview](https://youtu.be/99pttUdDoXc)  | ✔️ | $356,0000 |
+|**McLaren P1 M838T V8** |  mcp1eng  |  [Youtube - Preview](https://youtu.be/99pttUdDoXc)  | ✔️ | $356,000 |
 |**Mercedes-AMG One PU106C V6** |  amg1eng  |  [Youtube - Preview](https://youtu.be/2_taOi9OXgI)  | ✔️ | $476,000 |
 |**Mercedes-AMG GTR 4.0L V8** |  lg30meramgtr  |  [Youtube - Preview](https://youtu.be/H1wNPTM9KiE)  | ✔️ | $460,000 |
 |**Mercedes AMG C63 M156 6.3L V8** |  mbnzc63eng  |  [Youtube - Preview](https://youtu.be/-VwKDLdPD1A)  | ✔️ | $320,000 |
@@ -119,7 +119,7 @@ Busca la línea audioNameHash y agrega el nombre del archivo exactamente como es
 |**Toyota AE86 4AGE I4** |  4age  |  [Youtube - Preview](https://youtu.be/wHmj7dIXSjA)  | ✔️ | $285,000 |
 |**Toyota Supra A90 B58 I6 Tuned** |  lg16a90mk5  |  [Youtube - Preview](https://youtu.be/EDiB8-7f9fg)  | ✔️ | $330,000 |
 |**Volkswagen VR6 V6** |  lgcy00vr6  |  [Youtube - Preview](https://youtu.be/p5ppz7avDS4)  | ✔️ | $285,000 |
-|**Yamaha MT-09/FZ-09 I3** |  mt09eng  |  [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg)  | ✔️ | $27,0000 |
+|**Yamaha MT-09/FZ-09 I3** |  mt09eng  |  [Youtube - Preview](https://youtu.be/Yvn3Ya70Rsg)  | ✔️ | $270,000 |
 |**Yamaha Raptor 700cc I1** |  lgcyc00qbike700  |  [Youtube - Preview](https://youtu.be/RxCEomFrpP0)  | ✔️ | $272,000 |
 |**SL65 AMG V12** |  sl65amgv12  |  [Youtube - Preview](https://www.youtube.com/watch?v=eVj-t4Uf5cY)  | ✔️ | $410,000 |
 |**2F2F MITSUBISHI ECLIPSE SPYDER** |  Strej20  |  [Youtube - Preview](https://youtu.be/6xQKPvNOGz4)  | ✔️ | $295,000 |
